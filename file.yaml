@@ -1,0 +1,30 @@
+file_type: csv
+dataset_name: Crimes_-_2001_to_Present
+filename: MyDrive
+table_name: edursv
+inbound_delimiter: ','
+outbound_delimiter: '|'
+skip_leading_rows: 1
+columns:
+      - ID
+      - Case_Number 
+      - Date
+      - Block
+      - IUCR
+      - Primary_Type
+      - Description
+      - Location_Description
+      - Arrest
+      - Domestic
+      - Beat
+      - District
+      - Ward
+      - Community_Area
+      - FBI_Code
+      - X_Coordinate
+      - Y_Coordinate
+      - Year
+      - Updated_On
+      - Latitude
+      - Longitude
+      - Location
